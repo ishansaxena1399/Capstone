@@ -150,13 +150,13 @@ h3 {
     text-decoration: none;
 }
 
-@media (max-width:900px) {
+@media (max-width:600px) {
     .top-cloud {
         padding-right: 0px;
     }
     
     h1 {
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
 
     .bottom-cloud {
